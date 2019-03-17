@@ -1,0 +1,7 @@
+N:\1334\Fall2018\DonutShop\DonutShop\bin\Debug\DonutShop.exe.config
+N:\1334\Fall2018\DonutShop\DonutShop\bin\Debug\DonutShop.exe
+N:\1334\Fall2018\DonutShop\DonutShop\bin\Debug\DonutShop.pdb
+N:\1334\Fall2018\DonutShop\DonutShop\obj\Debug\DonutShop.csprojAssemblyReference.cache
+N:\1334\Fall2018\DonutShop\DonutShop\obj\Debug\DonutShop.csproj.CoreCompileInputs.cache
+N:\1334\Fall2018\DonutShop\DonutShop\obj\Debug\DonutShop.exe
+N:\1334\Fall2018\DonutShop\DonutShop\obj\Debug\DonutShop.pdb
